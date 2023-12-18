@@ -1,1 +1,5 @@
 venv/
+input/
+.envrc
+*.wav
+output.srt
